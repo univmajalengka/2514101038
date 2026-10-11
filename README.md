@@ -6,7 +6,7 @@
 
 ### Shifa Putri Rahmatya
 
-**Informatika — Universitas [Nama Universitas]**
+**Informatika — Universitas Majalengka**
 
 </div>
 
@@ -17,7 +17,7 @@
 - **Nama:** Shifa Putri Rahmatya
 - **NPM:** 2514101038
 - **Program Studi:** Informatika
-- **Universitas:** [Nama Universitas]
+- **Universitas:** Majalengka
 
 ---
 
