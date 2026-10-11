@@ -1,4 +1,4 @@
-<div align="center">
+<div> align="center">
 
 # 📁 Repository Tugas Perkuliahan
 
@@ -44,7 +44,7 @@ Daftar proyek dan tugas perkuliahan akan ditambahkan sesuai dengan isi repositor
 
 ---
 
-<div align="center">
+<div> align="center">
 
 **Shifa Putri Rahmatya**  
 *Repository Tugas Perkuliahan*
