@@ -6,7 +6,8 @@
 
 ### Shifa Putri Rahmatya
 
-**Informatika — Universitas Majalengka**
+**Universitas Majalengka**
+**Teknik Informatika**
 
 </div>
 
