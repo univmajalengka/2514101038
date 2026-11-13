@@ -1,6 +1,4 @@
-import pypandoc
-
-content = r"""<div align="center">
+<div align="center">
 
 # 💗 PINK DISCOUNT
 
