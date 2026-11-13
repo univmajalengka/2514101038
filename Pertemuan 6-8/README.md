@@ -1,8 +1,6 @@
 <div align="center">
 
-# 💗 PINK DISCOUNT
-
-### *Belanja lebih hemat, hitung diskon lebih cepat!*
+# 💗 DISCOUNT CALCULATOR
 
 Aplikasi web sederhana untuk menghitung potongan harga dan mencatat transaksi belanja dengan tampilan pastel pink yang manis dan mudah digunakan.
 
@@ -15,9 +13,9 @@ Aplikasi web sederhana untuk menghitung potongan harga dan mencatat transaksi be
 
 ---
 
-## 🌷 Tentang Pink Discount
+## 🌷 Tentang Discount Calculator
 
-**Pink Discount** merupakan aplikasi berbasis web yang membantu pengguna menghitung diskon berdasarkan jumlah belanja. Pengguna dapat melihat rincian perhitungan terlebih dahulu, kemudian memilih untuk menyimpan transaksi ke dalam riwayat atau membatalkannya.
+**Discount Calculator** merupakan aplikasi berbasis web yang membantu pengguna menghitung diskon berdasarkan jumlah belanja. Pengguna dapat melihat rincian perhitungan terlebih dahulu, kemudian memilih untuk menyimpan transaksi ke dalam riwayat atau membatalkannya.
 
 Aplikasi ini dikembangkan sebagai latihan penerapan pemrograman web menggunakan **PHP** dan pengelolaan basis data **MySQL**.
 
@@ -38,9 +36,9 @@ Diskon ditentukan berdasarkan total belanja dengan ketentuan berikut:
 
 | Total Belanja | Potongan |
 |---:|---:|
-| Rp100.000 ke atas | **10%** |
-| Rp50.000 – Rp99.999 | **5%** |
-| Di bawah Rp50.000 | **0%** |
+| ≥ Rp100.000 | **10%** |
+| ≥ Rp50.000 | **5%** |
+| < Rp50.000 | **0%** |
 
 ## 🛠️ Teknologi
 
@@ -111,11 +109,11 @@ Jalankan melalui browser:
 http://localhost/program_diskon/
 ```
 
-Selesai! Pink Discount siap digunakan. 🌸
+Selesai! Discount Calculator siap digunakan. 🌸
 
 ## 🧁 Cara Menggunakan
 
-1. Buka halaman utama Pink Discount.
+1. Buka halaman utama Discount Calculator.
 2. Masukkan nominal belanja.
 3. Klik **Hitung Diskon**.
 4. Periksa rincian total belanja, diskon, dan total pembayaran.
@@ -157,11 +155,6 @@ Melalui project ini, beberapa konsep dasar pengembangan aplikasi web diterapkan,
 
 **Made with 💗 and a little bit of PHP**
 
-*Pink Discount — Simple calculation, sweeter shopping!*
+*Discount Calculator — Simple calculation, sweeter shopping!*
 
 </div>
-"""
-
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(content, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-print("README.md berhasil dibuat:", output_path)
